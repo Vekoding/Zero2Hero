@@ -1,0 +1,16 @@
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\bin\Debug\net5.0\Domaci11302021.exe
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\bin\Debug\net5.0\Domaci11302021.deps.json
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\bin\Debug\net5.0\Domaci11302021.runtimeconfig.json
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\bin\Debug\net5.0\Domaci11302021.runtimeconfig.dev.json
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\bin\Debug\net5.0\Domaci11302021.dll
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\bin\Debug\net5.0\ref\Domaci11302021.dll
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\bin\Debug\net5.0\Domaci11302021.pdb
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\obj\Debug\net5.0\Domaci11302021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\obj\Debug\net5.0\Domaci11302021.AssemblyInfoInputs.cache
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\obj\Debug\net5.0\Domaci11302021.AssemblyInfo.cs
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\obj\Debug\net5.0\Domaci11302021.csproj.CoreCompileInputs.cache
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\obj\Debug\net5.0\Domaci11302021.dll
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\obj\Debug\net5.0\ref\Domaci11302021.dll
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\obj\Debug\net5.0\Domaci11302021.pdb
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\obj\Debug\net5.0\Domaci11302021.genruntimeconfig.cache
+C:\Users\Velimir\source\repos\Domaci11302021\Domaci11302021\obj\Debug\net5.0\Domaci11302021.csproj.AssemblyReference.cache
